@@ -1,4 +1,4 @@
-##Stellar Wallet:
+**Stellar Wallet:**
 
 A decentralized expense-splitting app built on the Stellar Testnet.
 
