@@ -60,12 +60,16 @@ Visit: https://lab.stellar.org/transaction/dashboard?$=network$id=testnet&label=
 Paste your hash and click Load transaction
 Verify the transaction
 
+**Wallet connected display:**
 <img width="951" height="585" alt="image" src="https://github.com/user-attachments/assets/8c03ccb7-98e7-4977-bdfb-0f966f8cc87a" />
 
+**Balance Displayed:**
 <img width="1028" height="867" alt="image" src="https://github.com/user-attachments/assets/0cfd457e-2b9b-4b40-bdec-116574846108" />
 
+**The transaction result is shown to the user:**
 <img width="927" height="870" alt="image" src="https://github.com/user-attachments/assets/a490bf7a-6c7b-42ff-87e5-86f4fa76a9f6" />
 
+**Successful testnet transaction:**
 <img width="1384" height="750" alt="image" src="https://github.com/user-attachments/assets/55c5cd7f-75cc-478d-ae84-7714f4442306" />
 
 
