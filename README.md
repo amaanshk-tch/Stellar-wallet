@@ -1,31 +1,24 @@
 **Stellar Wallet:**
 
 A decentralized expense-splitting app built on the Stellar Testnet.
-Stellar Wallet lets groups track shared expenses and settle balances using Stellar testnet assets in a transparent, fast, and low-fee environment.
+Stellar Wallet lets groups track shared expenses and settle balances using Stellar testnet assets in a transparent, super fast, and low-fee environment.
 
-🚀 Overview
+**Overview:**
 
 Stellar Wallet enables users to:
-
 Create shared expense groups
-
 Add and split expenses between members
-
 Track who owes whom
-
 Settle balances using Stellar testnet payments
-
 View transaction history recorded on-chain
-
 All settlements are executed on the Stellar Testnet, making it ideal for experimentation and learning without real financial risk.
 
-🌌 Built on Stellar
+**Built on Stellar:**
 
 Stellar Development Foundation maintains the Stellar network, a decentralized blockchain designed for fast, low-cost financial transactions.
-
 Stellar Testnet is a testing environment that mirrors the main network but uses test tokens instead of real assets.
 
-Why Stellar?
+**Why Stellar?**
 
 ⚡ Fast finality (3–5 seconds)
 
@@ -38,40 +31,19 @@ Why Stellar?
 🛠 How It Works
 
 Users create a group.
-
 Members are added with their Stellar testnet public keys.
-
 Expenses are recorded and split equally (or custom split).
-
 The app calculates net balances.
-
 Users settle debts via Stellar testnet transactions.
-
 Transactions are confirmed on-chain.
 
 🏗 Architecture
 
-Frontend: (React / Next.js / etc. — update with your stack)
-
-Backend: (Node.js / Express / etc.)
-
+Frontend: React+Vite
 Blockchain Layer: Stellar Testnet
+Wallet Integration: Freighter.
 
-Wallet Integration: (Freighter / custom signer / etc.)
-
-🔐 Key Features
-
-Group-based expense tracking
-
-On-chain settlement
-
-Real-time balance calculation
-
-Transparent transaction history
-
-Secure key-based identity
-
-📦 Installation
+Installation
 git clone https://github.com/yourusername/stellar-wallet.git
 cd stellar-wallet
 npm install
@@ -84,6 +56,7 @@ To use Stellar Wallet:
 Generate a Stellar testnet account.
 
 Fund it using the Stellar Friendbot:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f43de78c-5167-405c-b641-69d37d4b0e13" />
 
 https://friendbot.stellar.org/
 
