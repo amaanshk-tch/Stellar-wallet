@@ -43,54 +43,37 @@ Frontend: React+Vite
 Blockchain Layer: Stellar Testnet
 Wallet Integration: Freighter.
 
-Installation
-git clone https://github.com/yourusername/stellar-wallet.git
-cd stellar-wallet
-npm install
-npm run dev
+**Installation:**
 
-🧪 Using the Testnet
+Ensure you have a Freighter wallet extension installed
+Check that you're on Testnet (not Mainnet)
+Check browser console for errors
+<img width="303" height="229" alt="image" src="https://github.com/user-attachments/assets/29bf3ec2-91c9-4e94-80c0-94fd73f53e29" />
 
-To use Stellar Wallet:
+Get Testnet XLM
+Connect your wallet
+Copy your address
+Visit Stellar Laboratory
+Paste your address and click "Fund"
+Refresh your balance!
 
+**Using the Testnet:**
+
+To use Freighter Wallet:
 Generate a Stellar testnet account.
-
 Fund it using the Stellar Friendbot:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f43de78c-5167-405c-b641-69d37d4b0e13" />
-
-https://friendbot.stellar.org/
-
 Add your public key to the app.
-
 Start splitting expenses.
 
-🔭 Future Improvements
+**Check transaction:**
+
+Copy your transaction hash
+Visit: https://lab.stellar.org/transaction/dashboard?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;;
+Paste your hash and click Load transaction
+Verify the transaction
+
+
+**Future Improvements:**
 
 Smart contract-based automation (Soroban)
-
 Multi-asset support
-
-Mobile version
-
-Mainnet deployment
-
-Gas abstraction UX
-
-🤝 Contributing
-
-Pull requests are welcome.
-For major changes, please open an issue first to discuss what you would like to change.
-
-📜 License
-
-MIT License
-
-If you want, tell me:
-
-Your tech stack
-
-Whether this is a hackathon project or production
-
-Whether you want it to sound more technical or more investor-facing
-
-And I’ll refine it into a sharper, more impressive README.
