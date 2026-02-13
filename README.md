@@ -60,7 +60,16 @@ Visit: https://lab.stellar.org/transaction/dashboard?$=network$id=testnet&label=
 Paste your hash and click Load transaction
 Verify the transaction
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e088759a-69e8-4bc9-8719-396c2a14c0f8" />
+<img width="951" height="585" alt="image" src="https://github.com/user-attachments/assets/8c03ccb7-98e7-4977-bdfb-0f966f8cc87a" />
+
+<img width="1028" height="867" alt="image" src="https://github.com/user-attachments/assets/0cfd457e-2b9b-4b40-bdec-116574846108" />
+
+<img width="927" height="870" alt="image" src="https://github.com/user-attachments/assets/a490bf7a-6c7b-42ff-87e5-86f4fa76a9f6" />
+
+<img width="1384" height="750" alt="image" src="https://github.com/user-attachments/assets/55c5cd7f-75cc-478d-ae84-7714f4442306" />
+
+
+
 
 
 
