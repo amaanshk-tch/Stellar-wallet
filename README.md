@@ -1,9 +1,6 @@
 **Stellar Wallet:**
 
 A decentralized expense-splitting app built on the Stellar Testnet.
-
-Think Splitwise, but powered by blockchain.
-
 Stellar Wallet lets groups track shared expenses and settle balances using Stellar testnet assets in a transparent, fast, and low-fee environment.
 
 🚀 Overview
