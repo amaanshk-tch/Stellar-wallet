@@ -50,13 +50,6 @@ Check that you're on Testnet (not Mainnet)
 Check browser console for errors
 <img width="303" height="229" alt="image" src="https://github.com/user-attachments/assets/29bf3ec2-91c9-4e94-80c0-94fd73f53e29" />
 
-Get Testnet XLM
-Connect your wallet
-Copy your address
-Visit Stellar Laboratory
-Paste your address and click "Fund"
-Refresh your balance!
-
 **Using the Testnet:**
 
 To use Freighter Wallet:
