@@ -1,7 +1,7 @@
 **Lumen Split:**
 
 A decentralized expense-splitting app built on the Stellar Testnet.
-Lumen spliy lets groups track shared expenses and settle balances using Stellar testnet assets in a transparent, super fast, and low-fee environment.
+Lumen split lets groups track shared expenses and settle balances using Stellar testnet assets in a transparent, super fast, and low-fee environment.
 
 **Overview:**
 
